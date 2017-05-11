@@ -1,0 +1,13 @@
+﻿  bead.c
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(83): warning C4101: 'j': unreferenced local variable
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(112): error C2065: 'ssize_t': undeclared identifier
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(112): error C2146: syntax error: missing ';' before identifier 'read'
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(112): error C2065: 'read': undeclared identifier
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(118): warning C4013: 'access' undefined; assuming extern returning int
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(118): error C2065: 'F_OK': undeclared identifier
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\egyetem elte\8. félév\op rendszerek\beadando\bead\bead\bead.c(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
